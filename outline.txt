@@ -1,0 +1,23 @@
+Week 1:
+100 playlists
+50 songs in each
+
+generate 5 songs
+First week
+
+Choose what to play by if 
+3 songs already heard
+3 songs not yet heard
+
+Week 2:
+Three Genres
+Pop, Rock, Techno
+
+Discover will suggest songs based on what songs they listen to (genre)
+
+
+Week 3:
+Moods:
+Happy, Party, Calming, Lounge
+
+Choose song based on Last weeks mood
